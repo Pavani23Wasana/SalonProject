@@ -1,0 +1,100 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+body{
+	background-image: url(../images/lg3.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: new time roman;
+}
+
+h5{
+	color: white;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+.col-md-5{
+	background: rgba(0,0,0,0.5);
+	margin-top: 40px;
+}
+
+.col-md-6{
+	font-size: 10px;
+	text-align: center;
+}
+.label{
+	font-size: 20px;
+	font-weight: normal;
+	color: white;
+}
+.input-group{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.input-group-addon{
+	background: transparent;
+	border-radius: 0px;
+	border: 0px;
+	border-bottom: 1px solid gray;
+	font-size: 18px;
+	color: gray;
+}
+.form-control{
+	background: transparent;
+	border-radius: 0px;
+	border: 0px;
+	border-bottom: 1px solid gray;
+	padding: 5px;
+	color: white;
+	font-size: 21px;
+	padding-bottom: 0;
+	padding-top: 0;
+}
+input[type="checkbox"]{
+	height: 10px;
+	width: 10px;
+	margin-left: 25PX;
+}
+small{
+	font-size: 18px;
+	color: white;
+}
+p{
+	font-size: 18px;
+	color: white;
+}
+.btn-default{
+	border-radius: 0px;
+	width: 370px;
+	font-size: 12px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	text-align: center;
+	padding-top: 0;
+	padding-bottom: 0;
+
+}
+
+img{
+	height: 80px;
+	width: 80px;
+	margin-left: 115px;
+	margin-top: 20px;
+}
+
+.salon-logo{
+	margin-right: 100px;
+	margin-top: 30px;
+	text-shadow: 1px 1px aliceblue;
+	text-align: center;
+	font-size: large;
+		
+}
+
+small{
+	font-size: 11px;
+}
+

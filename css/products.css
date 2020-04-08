@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	width: 90%;
+	margin: 10px auto;
+}
+
+.portfolio-menu{
+	text-align: center;
+}
+
+.portfolio-menu ul li{
+	display: inline-block;
+	margin: 0;
+	list-style: none;
+	padding: 3px 15px;
+	border: 1px solid black;
+	cursor: pointer;
+	background-color:  #006600;
+	font-weight: 100%;
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	transition: all .5s ease;
+}
+
+.portfolio-menu ul li:hover{
+	background:  #006600;
+	color: #ffffff;
+}
+
+.portfolio-item{
+	width: 100%;
+	margin-right: 2px;
+	margin-left: 10px;
+}
+
+.portfolio-item .item{
+	width: 204px;
+	float: left;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+li.active{
+	background:  #006600;
+	color: #ffffff;
+}
+  
+  /* img{
+	-webkit-transition : all 0.5s ease;
+  
+  }
+
+/*zoom effect*/
+/* img:hover{
+	transform: scale(1.2);
+  } */ 
+
